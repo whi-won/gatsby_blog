@@ -15,7 +15,7 @@ import * as Dom from '../utils/dom'
 import * as EventManager from '../utils/event-manager'
 
 const BASE_LINE = 80
-
+//test
 function getDistance(currentPos) {
   return Dom.getDocumentHeight() - currentPos
 }
