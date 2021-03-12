@@ -8,6 +8,10 @@ draft: false
 
 </br></br>
 
+## IT대학 소프트웨어 공모전
+
+</br>
+
 ## 사용 기술
 
 - [Blender](https://www.blender.org/) (Python)
