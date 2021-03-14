@@ -1,6 +1,7 @@
 ---
 title: ' RID (Real Interior Designer)'
-category: 'School'
+category: 'University'
+date: 2017-07-01 00:00:00
 draft: false
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: ' 알츠하이머를 찾아서'
-category: 'School'
+category: 'University'
+date: 2016-12-01 00:00:00
 draft: false
 ---
 
